@@ -85,7 +85,7 @@ BEGIN PS4 Controller Styling
 }
 
 .ds4 .back, .ds4 .start {
-    background url(start.svg);
+    background url(start.png);
     width 28px;
     height 46px;
     opacity 0;
