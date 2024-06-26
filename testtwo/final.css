@@ -6,6 +6,10 @@
         margin-top -280px;
 }
 
+.ds4.disconnected div {
+    display: none;
+}
+
 .ds4 .triggers {
     width 588px;
     height 90px;
